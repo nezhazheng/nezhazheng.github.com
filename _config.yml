@@ -1,6 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 6 # pagination based on number of posts
+paginate: 7 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: true
@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: nezhazheng
 
 description: Stylish Jekyll Theme
 author:
@@ -22,8 +22,8 @@ author:
   twitter: nezhazheng
   pinterest: asd123
   linkedin: asd123
-  bio: 此Blog用于记录我不断抗争的一生!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  bio: 致力于把程序写的比大波妹还性感!
+  email_md5: b9cf556767fb84d5222f6e97270794df
 
 rss_path: feed.xml
 categories_path: categories.html
